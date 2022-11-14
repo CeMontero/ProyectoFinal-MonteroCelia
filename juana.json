@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Tallarines",
+        "precio": 550
+    },
+
+    {
+        "id": 2,
+        "nombre": "Ñoquis",
+        "precio": 650
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Sorrentinos",
+        "precio": 750
+        
+    },
+    {
+        "id": 4,
+        "nombre": "Raviolones",
+        "precio": 850
+        
+    },
+    {
+        "id": 5,
+        "nombre": "Salsa ",
+        "precio": 270
+        
+    },
+    {
+        "id": 6,
+        "nombre": "Crema",
+        "precio": 190
+        
+    }
+]
